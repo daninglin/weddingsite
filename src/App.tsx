@@ -14,9 +14,9 @@ function App() {
           <section id="venue-info" className="mb-2">
             <h3>Venue Information</h3>
             <p>
-              Join us for our special day! We'll be hosting our wedding at the
+              Join us for our special day! We'll be having our wedding at the
               McElroy family home in Tulalip, WA on Saturday, July 18th, 2026.
-              The ceremony will be set alongside the koi pond in view of the
+              The ceremony will be set alongside the pond in view of the
               Cascades. After the ceremony we'll be moving to a covered tent for
               the remainder of the event.
               <br />
@@ -32,15 +32,16 @@ function App() {
             <h3>Parking</h3>
             <p>
               Parking will be available in the driveway of the property. Please
-              be careful to not block the main house garage doors either
+              be careful to not block the main house garage doors or either
               driveway into the yard. If you are ablebodied and willing to walk
               ~10 minutes, there is additional parking two houses down at{" "}
               <a href="https://maps.app.goo.gl/uVdpeTK68GsqeNqz8">
                 13501 11th Ave NE, Tulalip, WA 98271
               </a>
               . If there's no parking left and you do need to park at this
-              second residence and are unable to walk over, please reach out to
-              PHONE NUMBER when you arrive to arrange a pickup.
+              second residence but are unable to walk over, please reach out to
+              PHONE NUMBER when you arrive to arrange a pickup. Please do not
+              call during the ceremony.
             </p>
           </section>
           <section id="schedule" className="text-center">
@@ -69,11 +70,11 @@ function App() {
           <section id="food">
             <h3>Food</h3>
             <p>
-              Dinner will be buffet style catering provided by CATERER. There will
-              be FOOD1, FOOD2, FOOD3, as well as SIDE1, SIDE2, and SIDE3.
+              Dinner will be buffet style catering provided by CATERER. There
+              will be FOOD1, FOOD2, FOOD3, as well as SIDE1, SIDE2, and SIDE3.
               Vegetarian, gluten free, and dairy-free options will be available.
-              Desserts will include homemade Pennsylvania Dutch treats like
-              DESSERT1, DESSERT2, DESSERT3.
+              Desserts will include homemade gluten free cupcakes and
+              Pennsylvania Dutch treats like DESSERT1, DESSERT2, DESSERT3.
             </p>
           </section>
           <section id="dress-code">
@@ -96,7 +97,16 @@ function App() {
         </section>
         <section id="our-story">
           <h2 className="section-title">Our Story</h2>
-          <p>It started with a picture of a bumblebee and a pair of pink pants.</p>
+          <p>
+            It started with a picture of a bumblebee and a pair of pink pants.
+            We met at a Bequest Coffee in Mill Creek and despite all attempts to
+            take things slow, we ended up going out for rock climbing and Thai
+            food two nights later. A month in, Karlee was charmed when Dan made
+            her homemade chicken soup as she fought a cold. Dan found Karlee's
+            habit of identifying flora on hikes together endearing, and added
+            their own commentary on paw print identification and duck plumage. A
+            month in, we were official.
+          </p>
           <p>maybe an image gallery/carousel here</p>
         </section>
       </main>
