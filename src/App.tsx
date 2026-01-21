@@ -6,7 +6,7 @@ function App() {
       <header>
         <h1 className="text-4xl font-bold">Dan and Karlee's Wedding</h1>
         <a>RSVP Here</a>
-        <img src="public/images/canyon.jpg" alt="Canyon" className="image" />
+        <img src="images/canyon.jpg" alt="Canyon" className="image" />
       </header>
       <main className="flex flex-col items-center space-y-8 px-4 justify-center">
         <section id="wedding-details">
