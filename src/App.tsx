@@ -5,7 +5,7 @@ function App() {
     <div className="bg-white min-h-screen flex flex-col">
       <header>
         <h1 className="text-4xl font-bold">Dan and Karlee's Wedding</h1>
-        <a>RSVP Here</a>
+        <a>RSVP Here by June 20th</a>
         <img src="images/canyon.jpg" alt="Canyon" className="image" />
       </header>
       <main className="flex flex-col items-center space-y-8 px-4 justify-center">
@@ -16,7 +16,7 @@ function App() {
             <p>
               Join us for our special day! We'll be hosting our wedding at the
               McElroy family home in Tulalip, WA on Saturday, July 18th, 2026.
-              The ceremony will be set alongside the koi pond in view of the
+              The ceremony will be set alongside the pond in view of the
               Cascades. After the ceremony we'll be moving to a covered tent for
               the remainder of the event.
               <br />
