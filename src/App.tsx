@@ -6,7 +6,7 @@ function App() {
       <header>
         <h1 className="text-4xl font-bold">Dan and Karlee's Wedding</h1>
         <a>RSVP Here</a>
-        <img src="/public/images/canyon.jpg" alt="Canyon" className="image" />
+        <img src="public\images\canyon.jpg" alt="Canyon" className="image" />
       </header>
       <main className="flex flex-col items-center space-y-8 px-4 justify-center">
         <section id="wedding-details">
@@ -104,7 +104,6 @@ function App() {
             habit of identifying flora on hikes together endearing, and added
             their own commentary on paw print identification and duck plumage. A
             month in, we were official. */}
-            test
           <p>maybe an image gallery/carousel here</p>
         </section>
       </main>
