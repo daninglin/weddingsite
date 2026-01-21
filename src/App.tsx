@@ -104,6 +104,7 @@ function App() {
             habit of identifying flora on hikes together endearing, and added
             their own commentary on paw print identification and duck plumage. A
             month in, we were official. */}
+            test
           <p>maybe an image gallery/carousel here</p>
         </section>
       </main>
