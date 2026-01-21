@@ -6,5 +6,5 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   base: "/weddingsite/",
-  assetsInclude: ["**/*.jpg"]
+  assetsInclude: ["**/*.jpg", "**/*.png", "**/*.svg"],
 })
